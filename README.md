@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paarkavi Priya.S</h1>
 - 🔭 I’m in my second year of studies towards a bachelor's of engineering in Computer Sciences in Velammal College of Engineering and Technology.
 
-- 🌱 I’m currently learning **SQL,Web development using HTML5**
-
 - 👨‍💻 All of my projects are available at [https://github.com/paarkavisaravanan19](https://github.com/paarkavisaravanan19)
 
-- 💬 Ask me about **JAVA , C and Python**
+- 💬 Ask me about **JAVA, C, Python, HTML, CSS and Javascript**
 
 - 📫 How to reach me **paarkavi19092001@gmail.com**
 
