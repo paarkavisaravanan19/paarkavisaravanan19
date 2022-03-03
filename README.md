@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paarkavi Priya.S</h1>
-- 🔭 I’m **in my second year of studies towards a bachelor's of engineering in Computer Sciences in Velammal College of Engineering and Technology.**
+- 🔭 I’m in my second year of studies towards a bachelor's of engineering in Computer Sciences in Velammal College of Engineering and Technology.
 
 - 🌱 I’m currently learning **SQL,Web development using HTML5**
 
