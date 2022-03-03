@@ -16,9 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarkavisaravanan19&show_icons=true&locale=en&layout=compact" alt="paarkavisaravanan19" /></p>
 
 
-
-- Yet to be achieved in 2021:
-1.To get an Internship
-2.To be a contributor in Open source projects
-3.To get certified in many course learning sites
+- Yet to be achieved in 2022:
+1.To be a contributor in Open source projects
+2.To get certified in many course learning sites
 
