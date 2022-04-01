@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paarkavi Priya.S</h1>
-- 🔭 I’m in my second year of studies towards a bachelor's of engineering in Computer Sciences in Velammal College of Engineering and Technology.
+- 🔭 I’m in my third year of studies towards a bachelor's of engineering in Computer Sciences in Velammal College of Engineering and Technology.
 
 - 👨‍💻 All of my projects are available at [https://github.com/paarkavisaravanan19](https://github.com/paarkavisaravanan19)
 
@@ -17,4 +17,3 @@
 - Yet to be achieved in 2022:
 1.To be a contributor in Open source projects
 2.To get certified in many course learning sites
-
